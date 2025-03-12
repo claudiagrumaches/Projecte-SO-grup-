@@ -1,4 +1,5 @@
 ***SO Project:*** Rummykub
+
 ***Components of the group:*** Laura Guerrero, Claudia Grumaches & Raúl Gómez
 
 <ins>VERSION # 1</ins>
