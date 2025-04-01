@@ -11,3 +11,13 @@
 **Versión 1** comunicada per Raúl
 
 **URL del vídeo:** https://youtu.be/06qZ5zRJRsw
+
+<ins>VERSION # 2</ins>
+
+**Versión 2** generada per Claudia
+
+**Versión 2** verificada per Raúl
+
+**Versión 2** comunicada per Laura
+
+**URL dels videos:** https://youtu.be/HKLj2eBOCGo & https://youtu.be/mOatfCI4nR0
