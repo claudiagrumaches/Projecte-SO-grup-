@@ -22,7 +22,7 @@
 
 **URL dels videos:** https://youtu.be/HKLj2eBOCGo & https://youtu.be/mOatfCI4nR0
 
-ins>VERSION # 3</ins>
+<ins>VERSION # 3</ins>
 
 **Versión 3** generada per Raúl
 
