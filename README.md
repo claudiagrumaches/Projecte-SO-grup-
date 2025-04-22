@@ -34,7 +34,7 @@
 
 <ins>VERSION # 4</ins>
 
-**Versión 4** generada per Laura
+**Versión 3** generada per Laura
 
 **Versión 4** verificada per Clàudia
 
