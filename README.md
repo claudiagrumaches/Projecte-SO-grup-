@@ -1,4 +1,4 @@
-***SO Project:*** Rummykub
+***SO Project:*** Rummykub - Per veure cada versió, entra a l'apartat de Tags i Releases.
 
 ***Components of the group:*** Laura Guerrero, Claudia Grumaches & Raúl Gómez
 
@@ -41,3 +41,13 @@
 **Versión 4** comunicada per Raúl
 
 **URL del vídeo:** https://youtu.be/c753pwfwYhs?feature=shared
+
+<ins>VERSION # 5</ins>
+
+**Versión 5** generada per Claudia
+
+**Versión 5** verificada per Raúl
+
+**Versión 5** comunicada per Laura
+
+**URL del vídeo:** 
