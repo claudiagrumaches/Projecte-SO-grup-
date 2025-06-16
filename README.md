@@ -6,7 +6,7 @@
 ## 👥 Components del grup
 
 - **Laura Guerrero**  
-- **Claudia Grumaches**  
+- **Clàudia Grumaches**  
 - **Raúl Gómez**  
 
 ---
