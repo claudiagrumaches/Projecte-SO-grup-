@@ -18,8 +18,8 @@
 | **#1**    | Laura          | Claudia        | Raúl           | https://youtu.be/06qZ5zRJRsw                                                  |
 | **#2**    | Claudia        | Raúl           | Laura          | https://youtu.be/HKLj2eBOCGo<br>https://youtu.be/mOatfCI4nR0                  |
 | **#3**    | Raúl           | Laura          | Claudia        | https://youtu.be/CCws0cWLQdY                                                  |
-| **#4**    | Laura          | Claudia        | Raúl           | https://youtu.be/c753pwfwYhs?<br>feature=shared                               |
-| **#5**    | Claudia        | Raúl           | Laura          | https://youtu.be/Bki482JGCrI?<br>feature=shared                               |
+| **#4**    | Laura          | Claudia        | Raúl           | https://youtu.be/c753pwfwYhs                                 |
+| **#5**    | Claudia        | Raúl           | Laura          | https://youtu.be/Bki482JGCrI                                 |
 | **Final** | Raúl           | Laura          | Claudia        | https://youtu.be/8aa9kBz50NE?si=1xzGVmPSAZHMDIWC                              |
 
 
